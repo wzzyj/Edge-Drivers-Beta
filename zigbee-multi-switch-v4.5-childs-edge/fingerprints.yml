@@ -114,6 +114,11 @@ zigbeeManufacturer:
     manufacturer: 3A Smart Home DE
     model: LXN-2S27LX1.0
     deviceProfileName: two-switch
+  - id: "3A Smart/LXN"
+    deviceLabel: 3A Smart Switch
+    manufacturer: 3A Smart Home DE
+    model: LXN-1S27LX1.0
+    deviceProfileName: two-switch
   - id: "FeiBit/ZSN08KJ2.3"
     deviceLabel: FeiBit 2 Switch
     manufacturer: Feibit Inc co., LTD

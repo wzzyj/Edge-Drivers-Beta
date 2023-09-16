@@ -34,11 +34,6 @@ zigbeeManufacturer:
     manufacturer: NET2GRID
     model: SP31
     deviceProfileName: single-switch-plug
-  - id: "3A Smart/LXN"
-    deviceLabel: 3A Smart Switch
-    manufacturer: 3A Smart Home DE
-    model: LXN-1S27LX1.0
-    deviceProfileName: single-switch
   - id: "Cloud Even/Switch"
     deviceLabel: Cloud Even Switch
     manufacturer: _TYZB01_ncutbjdi
@@ -389,11 +384,6 @@ zigbeeManufacturer:
     manufacturer: 3A SMart Home DE
     model: LXN56-0S27LX1.3
     deviceProfileName: single-switch-plug
-  - id: "3A SMart/LXN-1S27LX1.0"
-    deviceLabel: 3A SMart Switch
-    manufacturer: 3A SMart Home DE
-    model: LXN-1S27LX1.0
-    deviceProfileName: single-switch
   - id: "TS0001/_TZ3000_ajv2vfow"
     deviceLabel: TS0001 Switch
     manufacturer: _TZ3000_ajv2vfow
